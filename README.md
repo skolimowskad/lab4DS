@@ -9,3 +9,4 @@ Deployment "restrictednginx" rowniez zostal stworzony dzieki plikowi YAML (<i>la
 sprawdzenie stanu przestrzeni nazw "lab4":  <i>kubectl get namespace lab4</i>
 <br />sprawdzenie stanu deploymentu w przestrzeni nazw "lab4": <i>kubectl get deployment restrictednginx -n lab4</i>
 <br />sprawdzenie stanu podow w deploymencie: <i>kubectl get pods -n lab4</i>
+<img src="sprawdzenie.png"/>
